@@ -28,10 +28,10 @@ from termcolor import colored
 def print_banner():
     banner = f"""
 {putih}███╗   ██╗ ██████╗  ██████╗ ██████╗   {putih}A Python Based email {hijau}Spoofer
-████╗  ██║██╔═══██╗██╔═══██╗██╔══██╗  {hijau}Version: {putih}v 1.0.1
-██╔██╗ ██║██║   ██║██║   ██║██████╔╝  {putih}Author: {hijau}Noob Pirate Aka Blionrie
+████╗  ██║██╔═══██╗██╔═══██╗██╔══██╗  {hijau}Version: {putih}v 1.0.0
+██╔██╗ ██║██║   ██║██║   ██║██████╔╝  {putih}Author: {hijau}4nuxd [Noob]
 ██║╚██╗██║██║   ██║██║   ██║██╔══██╗  {hijau}Note: {putih}Every Action Has a Consequence
-██║ ╚████║╚██████╔╝╚██████╔╝██████╔╝  {putih}Join: {hijau}https://t.me/piratexcrew
+██║ ╚████║╚██████╔╝╚██████╔╝██████╔╝  {putih}GitHub: {hijau}https://github.com/4nuxd/
 ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═════╝   {hijau}Bored..? : {putih}http://bit.ly/3MTMHyU
 ___________________________________________________________________________
     {reset}"""
